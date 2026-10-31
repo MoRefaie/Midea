@@ -1,0 +1,16 @@
+.DS_Store
+**/.DS_Store
+._*
+**/._*
+*.cache
+**/*.cache
+.cache
+**/.cache
+*.mac
+**/*.mac
+*.MAC
+**/*.MAC
+.Trash
+**/.Trash
+__pycache__/
+**/__pycache__/
