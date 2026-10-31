@@ -122,12 +122,6 @@ SWITCHES: list[MideaSwitchEntityDescription] = [
         entity_category=EntityCategory.CONFIG,
     ),
     MideaSwitchEntityDescription(
-        key="fast_dhw",
-        translation_key="fast_dhw",
-        models=[DeviceType.C3],
-        entity_category=EntityCategory.CONFIG,
-    ),
-    MideaSwitchEntityDescription(
         key="tbh",
         translation_key="tbh",
         models=[DeviceType.C3],

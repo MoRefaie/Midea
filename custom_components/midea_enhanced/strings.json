@@ -136,20 +136,11 @@
       "full_dust": {
         "name": "Full dust"
       },
-      "eco_function_state": {
-        "name": "Eco active"
-      },
-      "eco_timer_state": {
-        "name": "Eco timer active"
-      },
       "header_exist": {
         "name": "Header"
       },
       "heating": {
         "name": "Heating"
-      },
-      "holiday_on": {
-        "name": "Holiday mode"
       },
       "keep_warm": {
         "name": "Keep warm"
@@ -397,9 +388,6 @@
       "bottom_temperature": {
         "name": "Bottom temperature"
       },
-      "comp_run_freq": {
-        "name": "Compressor run frequency"
-      },
       "compressor_current": {
         "name": "Compressor current"
       },
@@ -514,15 +502,6 @@
       },
       "energy_consumption_24h": {
         "name": "24h window energy consumption"
-      },
-      "heat_elec_total_capacity0": {
-        "name": "Heat electricity total capacity"
-      },
-      "heat_elec_total_consum0": {
-        "name": "Heat electricity total consumption"
-      },
-      "error_code": {
-        "name": "Error code"
       },
       "evaporator_temperature": {
         "name": "Evaporator temperature"
@@ -973,24 +952,6 @@
       },
       "water_temperature": {
         "name": "Water temperature"
-      },
-      "water_flower": {
-        "name": "Water flow"
-      },
-      "water_pressure": {
-        "name": "Water pressure"
-      },
-      "temp_t3": {
-        "name": "Temperature T3"
-      },
-      "total_electricity0": {
-        "name": "Total electricity"
-      },
-      "total_thermal0": {
-        "name": "Total thermal energy"
-      },
-      "odu_target_fre": {
-        "name": "Outdoor unit target frequency"
       }
     },
     "switch": {
@@ -1008,9 +969,6 @@
       },
       "disinfect": {
         "name": "Disinfect"
-      },
-      "fast_dhw": {
-        "name": "Fast DHW"
       },
       "megawater": {
         "name": "Mega Water"
