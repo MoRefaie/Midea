@@ -7,7 +7,7 @@
     "appliances_cleaning",
     "climate.water_heaters"
   ],
-  "codeowners": ["@chemelli74", "@rokam", "@MoRefaie"],
+  "codeowners": ["@chemelli74", "@rokam", "@morefaie"],
   "config_flow": true,
   "dhcp": [
     {
