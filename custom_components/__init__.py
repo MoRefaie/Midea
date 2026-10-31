@@ -25,8 +25,8 @@ from homeassistant.core import HomeAssistant
 from homeassistant.exceptions import ConfigEntryError, ConfigEntryNotReady
 from homeassistant.helpers import device_registry as dr
 
-from .const import CONF_KEY, CONF_SN, CONF_SUBTYPE, DOMAIN, LOGGER
-from .entity import MideaConfigEntry
+from ..const import CONF_KEY, CONF_SN, CONF_SUBTYPE, DOMAIN, LOGGER
+from ..entity import MideaConfigEntry
 
 _PLATFORMS: list[Platform] = [
     Platform.BINARY_SENSOR,
