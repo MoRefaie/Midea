@@ -5,7 +5,7 @@ import logging
 
 LOGGER = logging.getLogger(__package__)
 
-DOMAIN = "midea"
+DOMAIN = "midea_enhanced"
 
 
 CONF_KEY = "key"
