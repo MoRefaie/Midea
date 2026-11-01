@@ -1,4 +1,4 @@
-# Midea C3 Enhanced
+# Midea Extras
 
 A Home Assistant custom integration for Midea devices.
 
@@ -8,4 +8,4 @@ This repository is structured for HACS/custom integration installation.
 
 Place the integration under:
 
-`custom_components/midea_enhanced/`
+`custom_components/midea_extras`
