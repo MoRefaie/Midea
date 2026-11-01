@@ -1,0 +1,7 @@
+{
+  "domain": "midea_extras",
+  "name": "Midea Extras",
+  "version": "1.0.0",
+  "dependencies": ["midea"],
+  "codeowners": ["@MoRefaie"]
+}
