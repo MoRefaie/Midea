@@ -154,6 +154,27 @@ BINARY_SENSORS: list[MideaBinarySensorEntityDescription] = [
         entity_category=EntityCategory.DIAGNOSTIC,
         models=[DeviceType.E2],
     ),
+    MideaBinarySensorEntityDescription(
+        key="holiday_on",
+        translation_key="holiday_on",
+        device_class=BinarySensorDeviceClass.OCCUPANCY,
+        entity_category=EntityCategory.DIAGNOSTIC,
+        models=[DeviceType.C3],
+    ),
+    MideaBinarySensorEntityDescription(
+        key="eco_function_state",
+        translation_key="eco_function_state",
+        device_class=BinarySensorDeviceClass.RUNNING,
+        entity_category=EntityCategory.DIAGNOSTIC,
+        models=[DeviceType.C3],
+    ),
+    MideaBinarySensorEntityDescription(
+        key="eco_timer_state",
+        translation_key="eco_timer_state",
+        device_class=BinarySensorDeviceClass.RUNNING,
+        entity_category=EntityCategory.DIAGNOSTIC,
+        models=[DeviceType.C3],
+    ),
 ]
 
 
